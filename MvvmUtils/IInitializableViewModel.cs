@@ -1,5 +1,4 @@
-﻿using System.Reflection;
-using Microsoft.Toolkit.Mvvm.Input;
+﻿using CommunityToolkit.Mvvm.Input;
 
 namespace Roslan.MvvmUtils {
 
