@@ -7,6 +7,6 @@ namespace Roslan.MvvmUtils {
 
     public interface IInitializableViewModel {
 
-        IRelayCommand InitCommand { get; set; }
+        IRelayCommand InitCommand { get; }
     }
 }
