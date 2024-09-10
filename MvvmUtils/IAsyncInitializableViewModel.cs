@@ -5,7 +5,7 @@ namespace Roslan.MvvmUtils {
 
 
 
-    public interface IAsyncnitializableViewModel {
+    public interface IAsyncInitializableViewModel {
 
         IAsyncRelayCommand AsyncInitCommand { get; set; }
     }
