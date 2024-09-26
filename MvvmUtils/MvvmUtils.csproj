@@ -6,16 +6,19 @@
     <RootNamespace>Roslan.MvvmUtils</RootNamespace>
     <PackageId>Roslan.MvvmUtils</PackageId>
     <Title>MvvmUtils</Title>
-    <Version>2.0.3</Version>
+    <Version>2.1.0</Version>
     <Authors>Jan-Philipp Roslan</Authors>
     <Company> </Company>
     <Product>Roslan.MvvmUtils</Product>
     <RepositoryType>git</RepositoryType>
     <NeutralLanguage>en</NeutralLanguage>
-    <AssemblyVersion>2.0.3</AssemblyVersion>
-    <FileVersion>2.0.3</FileVersion>
+    <AssemblyVersion>2.1.0</AssemblyVersion>
+    <FileVersion>2.1.0</FileVersion>
     <IncludeSymbols>True</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+    <RepositoryUrl>https://github.com/Jackjan4/MvvmUtils</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/Jackjan4/MvvmUtils</PackageProjectUrl>
+    <PackageTags>MVVM; .NET;</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
