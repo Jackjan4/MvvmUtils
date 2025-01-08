@@ -1,7 +1,7 @@
 ﻿using System.Threading.Tasks;
 
 namespace Roslan.MvvmUtils {
-    public interface IInitializableServiceAsync {
+    public interface IAsyncInitializableService {
 
 
 
