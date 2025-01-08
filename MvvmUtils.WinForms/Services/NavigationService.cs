@@ -2,7 +2,7 @@
 
 
 
-namespace MvvmUtils.WinForms.Services;
+namespace Roslan.MvvmUtils.WinForms.Services;
 
 
 
