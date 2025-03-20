@@ -32,7 +32,7 @@ public class BlazorNavigationService : INavigationService {
 
 
 
-    public void NavigateTo(string pageName) {
+    public void Navigate(string pageName, bool modal = false) {
         _navigationManager.NavigateTo(pageName);
     }
 
